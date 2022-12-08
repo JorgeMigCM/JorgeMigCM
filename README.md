@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...🎭🎨
-- Hi, I'm Jorge Miguel, a web 🖥 and mobile 📱 developer. My interest is to specialize in QA ☕. Develop personal projects using JavaScript, PHP, dart, using your libraries like Laravel, Vue and Flutter. Based on these developments, my goal is to grow as a QA in the software development industry. I am a responsible, curious, committed and interested in technology person 🕹🌆.
+- Hello, I am Jorge Miguel, web developer 🖥 and mobile 📱. Develop personal projects using JavaScript, PHP, Dart, using their Laravel, Vue and Flutter bookstores. Based on these developments, my interest and objective is to grow and develop the role of QA ☕ in the software development industry. I am a responsible, curious, committed and interested person in technology 🕹🌆.
 
 
 <!---
